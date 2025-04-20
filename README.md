@@ -1,1 +1,1 @@
-2.sınıf Güz Döneminde Java ile Programlama dersinde yaptığım Seyehat Uygulamasını sizlere sunuyorum.
+2.sınıf Güz Döneminde Java ile Programlama dersinde yaptığım Seyehat Uygulamasını sizlere sunuyorum. Bu ödevi yaparken Mustafa Murat Coşku'un Udemy'de bulunan Sıfırdan Komple Java Geliştirici kursundan faydalandım.
